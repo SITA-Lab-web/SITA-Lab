@@ -26,7 +26,7 @@ This folder collects papers from the **data-driven optimization** research direc
 | Year | Acronym | Paper | Links |
 | --- | --- | --- | --- |
 | 2022 | ECCoEA | Edge-cloud co-evolutionary algorithms for distributed data-driven optimization problems | [Paper](https://ieeexplore.ieee.org/abstract/document/9965951/) |
-| 2024 | CrowdEC | Crowdec: Crowdsourcing-based evolutionary computation for distributed optimization | [Paper](https://ieeexplore.ieee.org/abstract/document/10618890/) / [Dataset](https://archive.ics.uci.edu/ml/index.php) |
+| 2024 | CrowdEC | Crowdec: Crowdsourcing-based evolutionary computation for distributed optimization | [Paper](https://ieeexplore.ieee.org/abstract/document/10618890/) |
 | 2026 | ECCoEA-ASAA | Distributed Data-Driven Evolutionary Optimization With Surrogate Ensemble Strategies | [Paper](https://ieeexplore.ieee.org/abstract/document/11493572/) |
 
 ## Feature Selection
@@ -41,19 +41,11 @@ This folder collects papers from the **data-driven optimization** research direc
 | Year | Acronym | Paper | Links |
 | --- | --- | --- | --- |
 | 2021 | CEDA | A coevolutionary estimation of distribution algorithm for group insurance portfolio | [Paper](https://ieeexplore.ieee.org/abstract/document/9494086/) |
-| 2022 | GSTM | Predicting the hate: A GSTM model based on COVID-19 hate speech datasets | [Paper](https://www.sciencedirect.com/science/article/pii/S0306457322001121) / [Dataset](https://github.com/claws-lab/COVID-HATE) |
+| 2022 | GSTM | Predicting the hate: A GSTM model based on COVID-19 hate speech datasets | [Paper](https://www.sciencedirect.com/science/article/pii/S0306457322001121) |
 | 2022 | NSEDA-C | An estimation of distribution algorithm with clustering for scenario-based robust financial optimization | [Paper](https://link.springer.com/article/10.1007/s40747-021-00640-2) |
-| 2022 | FSL-GEP | An efficient federated genetic programming framework for symbolic regression | [Paper](https://ieeexplore.ieee.org/document/9881543/) / [Dataset](https://www.jianguoyun.com/p/DZTOrAYQrdfiCBibhdQEIAA) |
+| 2022 | FSL-GEP | An efficient federated genetic programming framework for symbolic regression | [Paper](https://ieeexplore.ieee.org/document/9881543/) |
 | 2023 | - | A swarm-optimizer-assisted simulation and prediction model for emerging infectious diseases based on SEIR | [Paper](https://link.springer.com/article/10.1007/s40747-022-00908-1) |
 | 2023 | MLLSO | A Multi-objective Level-Based Learning Swarm Optimization Algorithm with Preference for Epidemic Resource Allocation | [Paper](https://link.springer.com/chapter/10.1007/978-981-99-2385-4_23) |
-
-## Datasets
-
-| Dataset / Resource | Related Paper | Link |
-| --- | --- | --- |
-| COVID-HATE | GSTM | [GitHub](https://github.com/claws-lab/COVID-HATE) |
-| IID Benchmark + Noise Dataset + ENH2 Dataset + Tower Dataset | FSL-GEP | [Jianguoyun](https://www.jianguoyun.com/p/DZTOrAYQrdfiCBibhdQEIAA) |
-| UrbanGB / UCI resources | CrowdEC | [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) |
 
 ## Maintenance Notes
 

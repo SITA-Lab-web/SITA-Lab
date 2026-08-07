@@ -11,7 +11,12 @@ This repository collects paper lists and related public resources for research d
 | Direction | Description | Entry |
 | --- | --- | --- |
 | Data-driven | Data-driven evolutionary computation, expensive optimization, distributed optimization, feature selection, and related applications. | [Papers](data-driven/papers.md) |
-| Multi-Agent | To be added. | - |
+
+## Shared Resources
+
+| Resource | Entry |
+| --- | --- |
+| Datasets | [Datasets](Datasets/README.md) |
 
 ## Repository Structure
 
@@ -20,6 +25,8 @@ This repository collects paper lists and related public resources for research d
 ├── README.md
 ├── assets/
 │   └── logo.jpg
+├── Datasets/
+│   └── README.md
 └── data-driven/
     └── papers.md
 ```
