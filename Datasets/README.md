@@ -1,12 +1,12 @@
 # Datasets
 
-This folder collects public dataset links related to SITA Lab research directions. Dataset files are not stored in this repository unless redistribution is explicitly allowed.
+This folder collects useful datasets and access links curated by SITA Lab. 
 
 ## Available Datasets
 
 | Dataset / Resource | Related Paper | Link |
 | --- | --- | --- |
-| WAIRD_DOWNTILT_5 | WAIR-D based downtilt consensus optimization benchmark | [WAIRD](WAIRD/) / [Usage README](WAIRD/WAIR-D_DOWNTILT_5_insert_code/README.md) |
+| WAIRD | WAIR-D based downtilt consensus optimization benchmark | [WAIRD](WAIRD/) / [Usage README](WAIRD/WAIR-D_DOWNTILT_5_insert_code/README.md) |
 
 ## Maintenance Notes
 
