@@ -1,0 +1,2 @@
+# environment=00201 local_bs=4 gain_scale=9.887206751097e-14
+# ue subcarrier serving_bs phi0 phi1 phi2 phi3 phi4 gain0 gain1 gain2 gain3 gain4

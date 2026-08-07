@@ -1,0 +1,7 @@
+environment=00082
+carrier_files=H_28_0_G.npy
+subcarriers_per_band=64
+total_subcarriers=64
+association=strongest
+gain_scale=3.018731335691e-13
+users_per_bs=8,8,3,9,2

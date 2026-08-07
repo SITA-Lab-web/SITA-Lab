@@ -2,16 +2,14 @@
 
 This folder collects public dataset links related to SITA Lab research directions. Dataset files are not stored in this repository unless redistribution is explicitly allowed.
 
-## Data-driven
+## Available Datasets
 
 | Dataset / Resource | Related Paper | Link |
 | --- | --- | --- |
-| COVID-HATE | GSTM | [GitHub](https://github.com/claws-lab/COVID-HATE) |
-| IID Benchmark + Noise Dataset + ENH2 Dataset + Tower Dataset | FSL-GEP | [Jianguoyun](https://www.jianguoyun.com/p/DZTOrAYQrdfiCBibhdQEIAA) |
-| UrbanGB / UCI resources | CrowdEC | [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) |
+| WAIRD_DOWNTILT_5 | WAIR-D based downtilt consensus optimization benchmark | [WAIRD](WAIRD/) / [Usage README](WAIRD/WAIR-D_DOWNTILT_5_insert_code/README.md) |
 
 ## Maintenance Notes
 
-- Keep dataset entries grouped by research direction.
+- Keep dataset entries updated when dataset folders are added or renamed.
 - Prefer official dataset pages, GitHub repositories, institutional repositories, or stable public archives.
 - Add access notes when a dataset requires registration, permission, or an external storage link.

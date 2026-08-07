@@ -1,0 +1,22 @@
+{
+    "WAIRD_DOWNTILT_5": {
+        "node_num": 5,
+        "dimension": 5,
+        "conforming": true,
+        "upper_bound": 15.0,
+        "lower_bound": 0.0,
+        "benchmark_type": "waird_downtilt5",
+        "data_dir": "WAIRD_DOWNTILT_5",
+        "default_environment": "00001",
+        "num_bs": 5,
+        "snr_db": 10.0,
+        "vertical_hpbw_deg": 10.0,
+        "max_atten_db": 20.0,
+        "outage_weight": 0.1,
+        "rate_floor": 1.0,
+        "if_rotate": false,
+        "if_shift": false,
+        "heterogeneous": true,
+        "weight": 0.0
+    }
+}
