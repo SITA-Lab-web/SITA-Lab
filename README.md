@@ -22,17 +22,20 @@ This repository collects paper lists and related public resources for research d
 
 ```text
 .
-├── README.md
-├── assets/
-│   └── logo.jpg
-├── Datasets/
-│   ├── README.md
-│   └── WAIRD/
-│       ├── WAIR-D_DOWNTILT_5_insert_code/
-│       └── WAIRD_DOWNTILT_5/
-└── data-driven/
-    ├── CA-LLSO/
-    └── papers.md
+|-- README.md
+|-- assets/
+|   `-- logo.jpg
+|-- Datasets/
+|   |-- README.md
+|   `-- WAIRD/
+|       |-- WAIR-D_DOWNTILT_5_insert_code/
+|       `-- WAIRD_DOWNTILT_5/
+`-- data-driven/
+    |-- CA-LLSO_Code/
+    |-- DEAOE_Code/
+    |-- eToSADE_Code/
+    |-- HRCEA_Code/
+    `-- papers.md
 ```
 
 ## Maintenance Notes
